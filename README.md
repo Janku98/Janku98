@@ -18,6 +18,9 @@ JavaScript, CSS, HTML5, Bootstrap, Express, React, Redux, Git, Mocha.JS, Node.js
 ## Puntos de contacto
 
 Mail: facundojankunas@hotmail.com.ar
+
 Gmail: mrwally98@gmail.com
+
 Linkedin: https://www.linkedin.com/in/facundo-jankunas-b950b1212/
+
 Tel/Wpp: +54 3515959721
