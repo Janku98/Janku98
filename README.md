@@ -16,7 +16,7 @@ JavaScript, CSS, HTML5, Bootstrap, Express, React, Redux, Git, Mocha.JS, Node.js
 
 ## Ultimo Proyecto realizado
 
-[ClanFest](https://flamboyant-golick-d7cb40.netlify.app/)
+[Hecha un vistazo a ClanFest](https://jolly-booth-281355.netlify.app/)
 
 ClanFest fue un proyecto trabajado durante 2 meses con un grupo de 7 personas mediante metodologia SCRUM. Esta aplicacion sirve para crear, administrar, compartir, pagar entradas o localizar eventos. Incluye sistema de notificaciones y envio de mails, sistema de usuarios, panel de admin, MercadoPago checkout, descarga de entradas en QR y la posibilidad de asignar tareas a los invitados de tu evento
 
