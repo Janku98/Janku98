@@ -5,16 +5,16 @@ FullStack developer con mas cariño hacia el Front-End
 ⚡Los limites se rompen cuando empezas a aprender⚡
 Siempre estoy para ayudar, me encanta comunicarme con compañeros para enseñar/aprender, y me encanta demostrar mi trabajo y esfuerzo.
 
-🌱Actualmente me encuentro aprendiendo sobre TypeScript y React Native🌱
+🌱Actualmente me encuentro aprendiendo sobre Python🌱
 
-Ademas de programar tengo otros intereses como el kickboxing🥊, los animales🐕 y el arte🧩
+Ademas de programar tengo otros intereses como las artes marciales🥊, los animales🐕 y el arte🧩
 
 
 ## Tecnologias y Lenguajes
 
-JavaScript, CSS, HTML5, Bootstrap, Express, React, Redux, Git, Mocha.JS, Node.js, PostgreSQL, PostMan, Sequelize ORM 
+JavaScript, CSS, HTML5, Bootstrap, Express, React, Angular, Redux, Git, Mocha.JS, Node.js, Tailwind, PostgreSQL, PostMan, Sequelize ORM 
 
-## Ultimo Proyecto realizado
+## Proyecto academico ClanFest
 
 [Hecha un vistazo a ClanFest](https://jolly-booth-281355.netlify.app/)
 
