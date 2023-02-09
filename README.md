@@ -35,4 +35,6 @@ Gmail: mrwally98@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/facundo-jankunas/)
 
+[Mi portafolio (en construccion):)]( https://master--thriving-fox-99d171.netlify.app/)
+
 Tel/Wpp: +54 3515959721
