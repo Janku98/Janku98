@@ -2,11 +2,9 @@
 
 FullStack developer con mas cariño hacia el Front-End
 
-⚡Los limites se rompen cuando empezas a aprender⚡
-Siempre estoy para ayudar, me encanta comunicarme con compañeros para enseñar/aprender, y me encanta demostrar mi trabajo y esfuerzo.
+⚡Siempre estoy para ayudar, me encanta comunicarme con compañeros para enseñar/aprender, y me encanta demostrar mi trabajo y esfuerzo.⚡
 
 🌱Actualmente me encuentro aprendiendo sobre Python🌱
-
 
 ## Tecnologias y Lenguajes
 
@@ -33,6 +31,6 @@ Gmail: mrwally98@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/facundo-jankunas/)
 
-[Mi portafolio (en construccion):)]( https://master--thriving-fox-99d171.netlify.app/)
+[Mi portafolio (en construccion) :)]( https://jankuportafolio.netlify.app/)
 
 Tel/Wpp: +54 3515959721
